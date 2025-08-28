@@ -12,3 +12,4 @@ pdfminer.six
 pillow-heif
 unstructured[pdf]
 streamlit
+pysqlite3-binary
