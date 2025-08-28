@@ -1,0 +1,14 @@
+dotenv
+ipykernel
+langchain
+langchain_groq
+langchain_huggingface
+sentence-transformers
+langchain_chroma
+langchain_community
+bs4
+unstructured
+pdfminer.six
+pillow-heif
+unstructured[pdf]
+streamlit
